@@ -9,7 +9,7 @@
 • Exploratory Data Analysis
 • Data Visualization
 
-### In this ammazon sales analysis my agenda is to find,
+### In this Amazon Sales Analysis my objective is to find,
 * Which Category capture the market
 * Price of Products having high demand in each Category
 * Ratings of Products In Categories
